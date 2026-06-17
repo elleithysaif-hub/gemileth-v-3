@@ -1,0 +1,8 @@
+{
+  "name": "Gemileith OS",
+  "description": "An unusual and magical AI-powered Android launcher featuring Firebase Auth, Firestore, and a Gemini chatbot with High Thinking capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
