@@ -1,21 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ✨ Gemileith OS
 
-# Run and deploy your AI Studio app
+مرحباً بك في **Gemileith OS** 🌌، واجهة النظام (Launcher) الذكية والمتطورة التي ترتقي بتجربة استخدام هاتفك الذكي وتدمج الذكاء الاصطناعي بشكل سحري في تفاصيل يومك!
 
-This contains everything you need to run your app locally.
+تم تصميم Gemileith OS بعناية وحب ليكون أكثر من مجرد واجهة، إنه رفيقك اليومي، ومساعدك الشخصي الذي يفهمك ويتطور معك. يتميز هذا الإبداع التقني بواجهة مستخدم ساحرة بتصميم Material 3 وألوان نيون مستقبلية تتكيف بسلاسة مع الوضع الليلي والنهاري (High-Contrast Light Mode & Magical Dark Mode).
 
-View your app in AI Studio: https://ai.studio/apps/31d45812-ec02-4bf1-8f23-d23ccd793604
+## 🚀 المميزات الرئيسية
 
-## Run Locally
+*   **🤖 مساعد Gemini الذكي المدمج:** ضغطة واحدة أو تمريرة سريعة للأعلى من الشاشة الرئيسية، وستكون في محادثة مباشرة مع Gemini. يمكنك التحدث معه صوتيًا 🎙️ أو نصيًا، وتبادل الأفكار، أو حتى تصدير المحادثات ومشاركتها مع من تحب.
+*   **📂 مقترحات ذكية للتطبيقات:** Gemileith OS يتعلم من عاداتك! باستخدام تقنيات تحليل الوقت والسياق المدعومة بقاعدة بيانات Firebase، يقترح عليك التطبيقات التي تحتاجها في الوقت المناسب (صباحاً، ظهراً، مساءً).
+*   **☁️ مزامنة سحابية فورية (Firebase Integration):** جميع محادثاتك مع Gemini، وتاريخ استخدامك للتطبيقات، وملفك الشخصي محفوظة بأمان وسلاسة في Firebase Firestore. بياناتك معك دائماً، وتُزامن لحفظ تاريخ محادثاتك لتعود إليها وقتما تشاء.
+*   **🎨 تصميم مبهر وأنيميشن سلس:** واجهة شفافة تتنفس مع خلفية هاتفك، مع تأثيرات بصرية ولمسات ساحرة تركز على راحة العين وسرعة الأداء.
+*   **🔐 نظام تسجيل دخول آمن (Authentication):** نظام دخول موثوق يحمي بياناتك وتفاعلاتك، مع واجهة ترحيبية أنيقة.
+*   **🗣️ دعم الأوامر الصوتية (Speech-to-Text):** تواصل مع الذكاء الاصطناعي بحرية وبدون استخدام يديك عبر تقنية تحويل الصوت إلى نص المدمجة داخل نافذة المحادثة.
+*   **🔍 بحث فوري ودرج تطبيقات متطور:** يمكنك البحث بين تطبيقاتك أو توجيه سؤالك مباشرة إلى Gemini من نفس شريط البحث، محرك ذكي يجمع أفضل ما في النظامين!
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+## 🌟 سحر التكنولوجيا في كل تفصيلة
+من شاشات الانتظار الأنيقة (Loading States & Progress Bars) إلى أيقونات التطبيقات المتناسقة، تم إخراج وكتابة أكواد Gemileith OS واختبارها باحترافية عالية لتعمل بكفاءة ورونق يخطف الأبصار، لتشعر أن جهازك أصبح ذكياً ومُلهماً بشكل استثنائي.
 
-
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+قم بتجربة **Gemileith OS** الآن وغادر الواجهات التقليدية إلى عصر الذكاء الاصطناعي المتكامل!
